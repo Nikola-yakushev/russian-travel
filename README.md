@@ -10,5 +10,5 @@
 1. @media screen (all) для создания адаптивных макетов;
 2. grid-layout с помощью которого появилась возможность вёрстки с разделением на столбы и строчки.
 
-### Ссылка на Github Pages https://github.com/Nikola-yakushev/russian-travel.git
+### Ссылка на Github Pages https://nikola-yakushev.github.io/russian-travel/.
 
